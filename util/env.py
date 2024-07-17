@@ -4,12 +4,12 @@ data_root = r'C:/'
 
 DATA_PATH = os.path.join(
     data_root, "Users", "CarolynGorman", "OneDrive", "repos", 
-    "cbt_crime", "data"
+    "cbt-crime", "data"
     )
 
 PJCT_PATH = os.path.join(
     data_root, "Users", "CarolynGorman", "OneDrive", "repos", 
-    "cbt_crime", "cbt-crime"
+    "cbt-crime", "cbt_crime"
     )
 
 def data_path(*args):
